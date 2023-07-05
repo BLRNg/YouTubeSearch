@@ -1,0 +1,59 @@
+﻿@model YoutubeSearch.Models.PlayerViewModel
+
+<div class="container my-4">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/@Model.Video.Id" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card bg-light">
+                <div class="card-body">
+                    <h3 class="card-title">@Model.Video.Title</h3>
+                    <p class="card-text">@Model.Video.Description.Substring(0, 150)@(Model.Video.Description.Length > 150 ? "..." : "")</p>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item"><i class="far fa-calendar-alt mr-2"></i>Published on @Model.Video.PublishedAt.ToShortDateString()</li>
+                        <li class="list-group-item"><i class="far fa-eye mr-2"></i>@Model.Video.ViewCount.ToString("N0") views</li>
+                        <li class="list-group-item"><i class="far fa-thumbs-up mr-2"></i>@Model.Video.LikeCount.ToString("N0") likes</li>
+
+                    </ul>
+               
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@if (Model.Comments != null && Model.Comments.Count > 0)
+{
+    <div class="mt-4">
+        <h4>Comments</h4>
+        <hr />
+        @foreach (var comment in Model.Comments)
+        {
+            <div class="card mb-3">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-2">
+                            <img src="@comment.AuthorProfileImageUrl" class="img-fluid" />
+                        </div>
+                        <div class="col-md-10">
+                            <h5 class="card-title">@comment.Author</h5>
+                            <p class="card-text">@comment.Text</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <p class="card-subtitle mb-2 text-muted">@comment.PublishedAt.ToLocalTime().ToString("dd MMM yyyy, hh:mm tt")</p>
+                                <div>
+                                    <span class="mr-2">@comment.LikeCount.ToString("N0") likes</span>
+                                    <button type="button" class="btn btn-sm btn-outline-primary"><i class="fas fa-thumbs-up mr-2"></i>Like</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+

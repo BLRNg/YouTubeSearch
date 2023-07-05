@@ -1,0 +1,41 @@
+﻿@*Dòng này khai báo kiểu dữ liệu cho Model, trong trường hợp này là danh sách các đối tượng VideoModel*@
+@model List<YoutubeSearch.Models.VideoModel>
+@*Dòng này bắt đầu một biểu mẫu HTML để tìm kiếm video trên trang chủ ("Index") của bộ điều khiển ("Home").
+    Hành động của biểu mẫu được xác định là "Get".*@
+@using (Html.BeginForm("Index", "Home", FormMethod.Get))
+{
+<div class="search-container">
+    @*Dòng này tạo ra một trường nhập liệu văn bản để nhập từ khóa tìm kiếm*@
+    <input type="text" name="query" class="search-input search-bar" placeholder="Search for videos..." />
+    @*Dòng này tạo ra một nút tìm kiếm để gửi biểu mẫu.*@
+    <button type="submit" class="search-button">
+        <i class="fa fa-search"></i>
+    </button>
+</div>
+}
+
+<div class="video-list">
+    @*Dòng này bắt đầu một vòng lặp để lặp lại các đối tượng video trong Model.*@
+    @foreach (var video in Model)
+    {
+    <div class="video-card">
+        @*Dòng này tạo ra một liên kết đến trang xem video ("Player") với một tham số id để xác định video được chọn.*@
+        <a href="@Url.Action("Player", "Home", new { id = video.Id })">
+            <div class="video-thumbnail">
+                @*Dòng này hiển thị hình ảnh của video với đường dẫn URL được cung cấp bởi thuộc tính ThumbnailUrl của đối tượng video.
+        Thuộc tính alt được sử dụng để cung cấp một văn bản mô tả hình ảnh cho những người dùng không thể xem được hình ảnh.*@
+                <img src="@video.ThumbnailUrl" alt="@video.Title" />
+                @*Dòng này hiển thị một biểu tượng phát video*@
+                <span class="play-icon"><i class="fa fa-play-circle"></i></span>
+            </div>
+            <div class="video-info">
+                <h2 class="video-title">@video.Title</h2>
+                <p class="video-description">@video.Description</p>
+            </div>
+        </a>
+    </div>
+    }
+</div>
+<div id="video-container"></div>
+
+
