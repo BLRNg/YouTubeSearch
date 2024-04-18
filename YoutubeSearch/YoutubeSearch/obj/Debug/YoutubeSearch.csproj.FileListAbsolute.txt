@@ -1,0 +1,186 @@
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\YoutubeSearch.dll.config
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\YoutubeSearch.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\YoutubeSearch.pdb
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\csc.exe
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\csc.exe.config
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\csc.rsp
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\csi.exe
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\csi.exe.config
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\csi.rsp
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.AppContext.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Console.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.IO.Compression.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Net.Http.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Net.Sockets.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.ValueTuple.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\vbc.exe
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\vbc.exe.config
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\vbc.rsp
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\VBCSCompiler.exe
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Antlr3.Runtime.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Newtonsoft.Json.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.Helpers.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.Mvc.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.Optimization.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.Razor.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.WebPages.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.WebPages.Razor.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\WebGrease.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.Helpers.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.Mvc.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.Optimization.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.Razor.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.WebPages.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\System.Web.WebPages.Razor.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Newtonsoft.Json.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Antlr3.Runtime.pdb
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.csproj.CoreCompileInputs.cache
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.csproj.CopyComplete
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.pdb
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Auth.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Core.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.PlatformServices.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.YouTube.v3.dll
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.pdb
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Auth.pdb
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Auth.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Core.pdb
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Core.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.YouTube.v3.pdb
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\bin\Google.Apis.YouTube.v3.xml
+C:\Users\trant\Documents\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.csproj.AssemblyReference.cache
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\YoutubeSearch.dll.config
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\YoutubeSearch.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\YoutubeSearch.pdb
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\csc.exe
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\csc.exe.config
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\csc.rsp
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\csi.exe
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\csi.exe.config
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\csi.rsp
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.AppContext.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Console.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.IO.Compression.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Net.Http.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Net.Sockets.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.ValueTuple.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\vbc.exe
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\vbc.exe.config
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\vbc.rsp
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\VBCSCompiler.exe
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Antlr3.Runtime.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Auth.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Core.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.PlatformServices.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.YouTube.v3.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Newtonsoft.Json.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.Helpers.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.Mvc.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.Optimization.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.Razor.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.WebPages.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.WebPages.Razor.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\WebGrease.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.pdb
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Auth.pdb
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Auth.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Core.pdb
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.Core.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.YouTube.v3.pdb
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Google.Apis.YouTube.v3.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Newtonsoft.Json.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.Helpers.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.Mvc.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.Optimization.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.Razor.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.WebPages.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\System.Web.WebPages.Razor.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Antlr3.Runtime.pdb
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.csproj.AssemblyReference.cache
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.csproj.CopyComplete
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.dll
+C:\Users\trant\Downloads\New folder\YouTubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\YoutubeSearch.pdb
